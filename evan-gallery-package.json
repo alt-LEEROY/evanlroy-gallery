@@ -1,0 +1,11 @@
+{
+  "name": "evanlroy-gallery",
+  "version": "1.0.0",
+  "description": "\"evan-galler-json\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "author": "evanlroy",
+  "license": "ISC"
+}
